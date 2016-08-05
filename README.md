@@ -1,16 +1,16 @@
 # Movie Trailer Website
 
-A Movie Trailer Website where users can see my favorite movies and watch the trailers.
+A website that allows the users to see my favorite movies and watch the trailers.
 
 # How To Run
 
   - Download the code
   - Extract compressed file
   - Open terminal and cd to the extracted folder
-  - Run the application, `python main.py`
+  - Run the application by typing `python main.py`
   - This will open up a page in your web browser
-  - Hover over the Movie Tile to view short Movie Storyline
-  - Click on the Movie Tile to see youtube trailer
+  - Hover over the Movie to view short Movie Storyline
+  - Click on the Movie to see youtube trailer
 
 # Project Files
 
